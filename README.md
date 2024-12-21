@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-**I am currently serving a mission for the Church of Jesus Christ of Latter Day Saints**
-
-As such, I will not be active on my GitHub account until **December of 2024**. Sorry for the inconvenience.
-If you have concerns about any of my work on iOS, please reach out to a member of the [SideStore](https://github.com/SideStore) team. They have access to my work and will be able to answer questions.
-
-Status before I left:
 ```
 - 🔭 I’m currently working on AltStore and JIT entitlements
 - 🌱 I’m currently learning Swift and C
